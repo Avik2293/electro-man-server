@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01",
+    "title": "Basics of Electricity and DC Circuit Analysis",
+    "instructor": "Graham Van Brunt",
+    "about": "Explore the basics of electricity and learn its laws, theorems and how the DC circuit works in this free online course.",
+    "image_url": "https://cdn01.alison-static.net/courses/4165/alison_courseware_intro_4165.jpg",
+    "details": "The history of electricity is fascinating and you find it in nature and the latest technology. This course explains how early scientists came up with laws and theorems such as Ohm’s law, Norton’s theorem and more. We examine the basic concepts of the DC circuit and how to apply them in modern life. You'll learn about electrical components such as resistors and capacitors, among others, and how to calculate voltage and current across DC circuits.",
+    "duration": "1.5-3",
+    "rating": "4.5"
+  },
+  {
+    "id": "02",
+    "title": "Introduction to Electronic Sensors",
+    "instructor": "ADU",
+    "about": "Study pressure sensors, photoemissive cells and fiber optics in this free course on different types of electric sensors.",
+    "image_url": "https://cdn01.alison-static.net/courses/4177/alison_courseware_intro_4177.jpg",
+    "details": "This free online course provides you with an understanding of what an electronic sensor is. It goes into detail about the various characteristics and uses of the sensors. Next, you will find information about photoemissive cells and fiber optic sensors. Finally, the course answers questions such as: What are pressure sensors? How do you use a U-tube manometer? How do you use an ultrasonic sensor?",
+    "duration": "3-4",
+    "rating": "4.6"
+  },
+  {
+    "id": "03",
+    "title": "Power Electronics Specialization",
+    "instructor": "Dr. Robert Erickson",
+    "about": "Expand your Engineering Excellence. Create modern power electronics systems for our devices, transportation and infrastructure.",
+    "image_url": "https://zephyrproject.org/wp-content/uploads/sites/38/2021/06/767_medium.jpg",
+    "details": "Design modern switched-mode power converters; create high-performance control loops around power converters; understand efficiency, power density and cost trade-offs.By 2030, 80% of all electrical energy will be processed by power electronics. Professional advantages continue to grow for technical engineers who understand the fundamental principles and technical requirements of modern power conversion systems. This specialization covers design-oriented analysis, modeling and simulation techniques leading to practical engineering of high-performance power electronics systems.",
+    "duration": "50-60",
+    "rating": "4.8"
+  },
+  {
+    "id": "04",
+    "title": "Electric Power Systems",
+    "instructor": "Ilya Grinberg",
+    "about": "This course is part of the Energy Production, Distribution & Safety Specialization",
+    "image_url": "https://www.ge.com/research/sites/default/files/styles/hero_banner/public/images/capabilities/2020-07/powersystems-min.jpg?itok=OFD2LNP5",
+    "details": "This course familiarizes you with standards and policies of the electric utility industry, and provides you with basic vocabulary used in the business. It introduces the electric power system, from generation of the electricity all the way to the wall plug. You will learn about the segments of the system, and common components like power cables and transformers. This course is for individuals considering a career in the energy field (who have a high school diploma, at minimum, and basic knowledge of mathematics), and existing energy sector employees with less than three years of experience who have not completed similar training and would benefit from a course of foundational industry concepts. The course is a combination of online lectures, videos, readings and discussions. This is the first course in the Energy Production, Distribution & Safety specialization that explores various facets of the power sector, and features a culminating project involving creation of a roadmap to achieve a self-established, energy-related professional goal.",
+    "duration": "40-50",
+    "rating": "4.7"
+  },
+  {
+    "id": "05",
+    "title": "Solar Energy: Integration of Photovoltaic Systems in Microgrids",
+    "instructor": "Laura Ramirez",
+    "about": "Learn how to integrate a photovoltaic system into a microgrid of your design.",
+    "image_url": "https://prod-discovery.edx-cdn.org/media/course/image/241c7604-5986-472c-bd80-ab8680511552-47344f334919.small.jpg",
+    "details": "What you'll learn Skip What you'll learn Difference between a microgrid, a passive distribution grid and a virtual power plantAncillary services provided by microgrids and PV Operation of centralized and decentralized control, forecasting, and evaluation of different market policies through a case study Operation of active power control and voltage regulation Different layouts and topologies of microgrids and power electronic components, and the role of power electronics converters in microgrids. Microgrid protection, adaptive protection, and the consequences of using a fault current source and fault current limitation. Main motivations and challenges for the implementation of DC microgrids. Verified learners will have the added benefit of evaluating different strategies to control multiple inverters and to analyze local control to improve stability.",
+    "duration": "30-40",
+    "rating": "4.8"
+  },
+  {
+    "id": "06",
+    "title": "The Basics of Household Wiring. The Electrical System A to Z",
+    "instructor": "Terry Peterman",
+    "about": "Everything Electricity, from your Circuit (Breaker) Panel, Outlets, Switches, Receptacles, Light Fixtures, Cable, Wire..",
+    "image_url": "https://img.hunkercdn.com/630x/clsd/getty/5331822366cb4310b1babee95cd37262.jpg?type=webp",
+    "details": "What you'll learnUnderstand how electricity works, how it is generated, transmitted to, and distributed throughout your home. Wire a receptacle (regular, switched, GFCI), a single-pole switch (3 and 4-way), a light fixture, and more! Have the knowledge and skills to safely and competently complete most home electrical projects and repairs. After completing this course, students will have a solid knowledge of the fundamentals of electricity and how it functions within the home, including how electricity is generated, transmitted to, transformed, and how it enters the home through the power meter, the main breaker, and the branch circuit breaker panel. From there we cover in detail all types of receptacles, switches, and light fixtures, and how to correctly wire them.   Safe practices are covered in detail, including the use of circuit testers.  The course includes an in-depth look at rough-in wiring, and explains the role, use and importance of ground fault circuit and arc fault circuit protection. At the end of the course the student will know how to take on most small electrical projects and repairs around the home, both safely and competently.",
+    "duration": "40-45",
+    "rating": "4.6"
+  }
+]
